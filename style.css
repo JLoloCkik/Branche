@@ -1,8 +1,10 @@
 body {
     background-color: var(--blue);
     font-size: var(--size) ;
+    text-align: var(--közép);
 }
 :root {
     --size: 6rem;
-    --blue: blue;
+    --blue: rgb(3, 3, 255);
+    --közép: center
 }
